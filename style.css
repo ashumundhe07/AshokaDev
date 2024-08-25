@@ -298,15 +298,7 @@ body {
     Footer Section: Styles the footer with a black background, centered text, 
     and ensures it's positioned at the bottom of the page.
   */
-  footer {
-    background: #2c2e48;
-    color: #ffffff;
-    text-align: center;
-    padding: 30px 0;
-    margin-top: 40px;
-    border-top: #8b5cf6 3px solid; /* Purple border at the top of the footer */
-    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2); /* Adds a subtle shadow above the footer */
-  }
+ 
   
   /* 
     Media Queries: Adjusts layout for smaller screens, ensuring that the content 
